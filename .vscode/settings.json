@@ -1,0 +1,4 @@
+{
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  // Add any new VS Code specific settings here as needed
+}
