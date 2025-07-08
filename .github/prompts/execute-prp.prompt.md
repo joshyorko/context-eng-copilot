@@ -15,7 +15,7 @@ Provide the PRP file path (e.g., `PRPs/{feature-name}/multi-agent-system.md`) th
 
 ### 1. Load PRP Context
 - Read the specified PRP file completely
-- Follow the structure and guidelines from [.github/instructions/prp-template.instructions.md](../instructions/prp-template.instructions.md)
+- Follow the structure and guidelines from [.github/instructions/prp-template.instructions.md](.github/instructions/prp-template.instructions.md)
 - Understand all context and requirements
 - Follow all instructions in the PRP
 - Extend research if gaps are identified
